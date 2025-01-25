@@ -1,8 +1,3 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/54b36e35-4f1b-4546-9fe7-4a9be45ff4f4)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+IntelliRent is a smart property management application designed for homeowners and agencies to streamline rental operations. With features like automated rent collection, tenant screening, maintenance tracking, and lease management, IntelliRent simplifies property oversight. Its intuitive interface, AI-driven insights, and secure cloud storage help users save time, reduce costs, and optimize rental processes—all in one seamless platform.
